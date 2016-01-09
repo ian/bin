@@ -1,5 +1,18 @@
-# bin
-A bunch of bin scripts I use all the time
+
+# Installation
+
+```
+cd ~
+git clone https://github.com/ian/bin.git bin
+```
+
+Then add `~/bin` to your path (in `.bash_rc` or wherever)
+
+```
+export PATH="./bin:$PATH"
+```
+
+# Usage
 
 ## rmds
 
